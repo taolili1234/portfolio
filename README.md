@@ -33,3 +33,5 @@ string a ="これはc#(cs)初期のブロック";
 
 # images
 ![image](images/iroiro.png)
+
+<img src="images/image.png" style="width: 320px">
