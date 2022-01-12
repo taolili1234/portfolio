@@ -32,4 +32,4 @@ string a ="これはc#(cs)初期のブロック";
 []()
 
 # images
-![image](image/iroiro.png)
+![image](images/iroiro.png)
