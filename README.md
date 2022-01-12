@@ -26,3 +26,10 @@
 ```cs
 string a ="これはc#(cs)初期のブロック";
 ```
+
+# リンク
+
+[]()
+
+# images
+![image](image/iroiro.png)
