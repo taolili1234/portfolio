@@ -41,7 +41,7 @@
 
 [<img src="images/spunity1.png" alt="SuperUnitychanSisters_state3" style="height: 360px">]()
 
-[<img src="images/spunity.png" alt="SuperUnitychanSisters" style="height: 360px">]()
+[<img src="images/spuntiy.png" alt="SuperUnitychanSisters_state3" style="heights: 360px">]()
 
 [<img src="images/iroiro.png" alt="SuperUnitychanSistersポスター" style="height: 360px">]()
 
