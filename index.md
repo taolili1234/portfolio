@@ -24,7 +24,7 @@
 ### FirstGame
 [<img src="images/firstgame.png" alt="FirstGame" style="height: 360px">]()
 
-[作品名1](FirstGame)
+[FirstGame]
 
 作品概要　自分がはじめに作った２Dゲームです。夏休みの宿題として、(https://www.youtube.com/c/MStudioUnity)から見ながら作った２Dゲームです。
 
@@ -45,7 +45,7 @@
 
 [<img src="images/iroiro.png" alt="SuperUnitychanSistersポスター" style="height: 360px">]()
 
-[作品名2](SuperUnitychanSisters)
+[SuperUnitychanSisters]
 
 作品概要 はじめにクラスメイトとの団体作品2.5Dゲームです。下から3番目と2番目がは私が作ったstate3とポスターです。
 
@@ -57,7 +57,7 @@
 
 [<img src="images/sei1.png" alt="正解" style="height: 360px">]()
 
-[作品名2](正解)
+[正解]
 
 作品概要　正月宿題とする二週間ゲームです。完成度90％ぐらいです。つづく中。
 
