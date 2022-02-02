@@ -1,5 +1,6 @@
 
 - 陳金鵬(チンキンホウ)/[中国]
+
 ##　正月宿題の問題
 - colliderが付いたのに当たり判定が反応なし,以下のよう
 [<img src="images/sei-1.png" alt="" style="height: 360px">]()
