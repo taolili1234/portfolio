@@ -32,7 +32,7 @@
 
 ## 解決方法
 
--  解決方法はとても簡単です、Cubeの親だけにColliderを設置すればいいです、以下のように
+-  解決方法はとても簡単です、Cubeの親だけにColliderを設置すればいいです、完璧ではないが、以下のように
 
 [<img src="images/sei-4.png" alt="" style="height: 360px">]()
 
