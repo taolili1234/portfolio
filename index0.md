@@ -23,7 +23,7 @@ public void OnCollisionEnter(Collision collision)
        }
    }
 ```
-<<<<<<< HEAD
+
    [<img src="images/sei-2.png" alt="" style="height: 360px">]()
 
 ===========================================================
@@ -32,7 +32,6 @@ public void OnCollisionEnter(Collision collision)
 
 - この正にcube20個以上なんで一個ずつコードつくとちょっと面倒なので、Cubeの親だけにColliderを設置すればいいです、完璧ではないが、一応解決できます。以下のように
 
-=======
 
    [<img src="images/sei-2.png" alt="" style="height: 360px">]()
 
