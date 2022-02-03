@@ -26,22 +26,12 @@ public void OnCollisionEnter(Collision collision)
 
    [<img src="images/sei-2.png" alt="" style="height: 360px">]()
 
-===========================================================
+###　===========================================================
 
 ## 解決方法
 
 - この正にcube20個以上なんで一個ずつコードつくとちょっと面倒なので、Cubeの親だけにColliderを設置すればいいです、完璧ではないが、一応解決できます。以下のように
 
-
-   [<img src="images/sei-2.png" alt="" style="height: 360px">]()
-
-
-###　===========================================================
-
-## 解決方法
-
--  解決方法はとても簡単です、Cubeの親だけにColliderを設置すればいいです、完璧ではないが、以下のように
->>>>>>> e58877ea6f57e4e3a7fb92ec70df762a2315facf
 
 [<img src="images/sei-4.png" alt="" style="height: 360px">]()
 
